@@ -1,5 +1,11 @@
 # [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/nvd "Coursera Course")
 
+![Build Status](https://github.com/towojcik/python-cli-example_coursera/actions/workflows/python-app.yaml/badge.svg)
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
+
+
 # Python CLI Example
 A small Python CLI example you can use to build on. With an emphasis on Linux and creating automation tools that solve a problem for you. THis is the basis for DevOps principles that you can apply in your own environment as well as production environments.
 
