@@ -1,6 +1,6 @@
 # [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/nvd "Coursera Course")
 
-![Build Status](https://github.com/towojcik/python-cli-example_coursera/actions/workflows/python-app.yaml/badge.svg)
+[![Python application test](https://github.com/towojcik/python-cli-example_coursera/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/towojcik/python-cli-example_coursera/actions/workflows/python-app.yml)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.10-green.svg)](https://shields.io/)
